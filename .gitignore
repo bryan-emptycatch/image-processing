@@ -1,0 +1,5 @@
+# Build artifacts
+*.o
+image_pipeline
+*.dSYM/
+.DS_Store
